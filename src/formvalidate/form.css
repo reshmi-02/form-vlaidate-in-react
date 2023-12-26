@@ -1,0 +1,22 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.form-section{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-container{
+    border:1px solid black;
+    width:30%;
+    padding: 5% 2%;
+    margin: auto;
+}
+
+
+
